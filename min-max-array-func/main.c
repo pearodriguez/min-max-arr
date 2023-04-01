@@ -2,10 +2,9 @@
 //  main.c
 //  min-max-array-func
 //
-//  Created by Peter Rodriguez on 10/31/21.
+//  Created by Peter Rodriguez.
 //
 /*
- Write a C program to read :
 
  Read values into an array.
  Then print the values of Max and Min in main.
